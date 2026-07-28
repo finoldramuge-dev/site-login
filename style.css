@@ -1,4 +1,19 @@
-/* CONFIG GERAL */
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #f0f2f5;
+}
+
+.caixa-login {
+  width: 90%;
+  max-width: 400px; /* não passa de 400px no PC */
+  padding: 20px;
+}
+
+loop/* CONFIG GERAL */
 body { 
   font-family: Arial; 
   background: #0f172a; /* Fundo azul escuro */
